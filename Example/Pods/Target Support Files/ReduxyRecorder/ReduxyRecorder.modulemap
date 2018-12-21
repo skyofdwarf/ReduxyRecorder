@@ -1,0 +1,6 @@
+framework module ReduxyRecorder {
+  umbrella header "ReduxyRecorder-umbrella.h"
+
+  export *
+  module * { export * }
+}

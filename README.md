@@ -5,11 +5,15 @@
 [![License](https://img.shields.io/cocoapods/l/ReduxyRecorder.svg?style=flat)](https://cocoapods.org/pods/ReduxyRecorder)
 [![Platform](https://img.shields.io/cocoapods/p/ReduxyRecorder.svg?style=flat)](https://cocoapods.org/pods/ReduxyRecorder)
 
+ReduxyRecorder is extension of reduxy and provides features to record and replay pairs of action and state of Reduxy.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+[Reduxy](https://github.com/skyofdwarf/Reduxy)
 
 ## Installation
 
