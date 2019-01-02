@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ReduxyRecorder'
-  s.version          = '0.3.0'
+  s.version          = '0.3.1'
   s.summary          = 'Recorder extension for Reduxy.'
 
 # This description is used to generate tags and improve search results.
