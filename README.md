@@ -1,3 +1,7 @@
+# Note
+
+It's a Experiment, don't apply it
+
 # ReduxyRecorder
 
 [![CI Status](https://img.shields.io/travis/skyofdwarf/ReduxyRecorder.svg?style=flat)](https://travis-ci.org/skyofdwarf/ReduxyRecorder)
